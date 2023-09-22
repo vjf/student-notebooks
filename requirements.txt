@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+matplotlib
+owslib
+nvcl_kit
+geopandas
+folium
+nltk
